@@ -1,0 +1,194 @@
+
+header,
+footer {
+    background-color: #fcfcfc;
+    color: rgb(92, 92, 92);
+    padding: 0 20px;
+
+}
+
+section {
+    /*         background-color: #dddddd; */
+    padding: 60px;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 300;
+    /*         border: solid 1px #1f1f1f; */
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+header ul li {
+    display: inline-block;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 0.8rem;
+}
+
+.active {
+    background-color: #009E2D;
+}
+
+footer {
+    padding: 32.5px;
+    text-align: center;
+}
+
+a {
+    color: rgb(92, 92, 92);
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h4 {
+    font-size: 65px;
+    text-align: center;
+    margin: -70px
+}
+
+p {
+    text-align: left;
+    font-size: 40px;
+}
+
+article {
+    background-color: rgb(231, 231, 231);
+    font-size: 17px;
+
+}
+
+img {
+    size: 500px;
+    margin: 0px;
+    padding: 0px;
+    background-repeat: no-repeat;
+}
+
+
+.yes {
+    height: 500px;
+    padding: 200px;
+    margin: 0px;
+}
+
+.p {
+    background-color: rgb(12, 56, 122);
+}
+
+
+#bada {
+    padding: 250px;
+    font-size: 50px;
+    font-family: finestyle;
+    text-align: center;
+    color: rgb(12, 56, 122);
+    background-color: #fcfcfc;
+
+}
+
+
+#bida {
+    color: rgb(12, 56, 122);
+}
+
+
+
+#kk {
+    font-family: finestyle;
+}
+
+#kiki {
+    background-color: bisque;
+    font-size: 50px;
+    color: rgb(12, 56, 122);
+    font-family: finestyle;
+    text-align: center;
+}
+
+#ko {
+    text-align: center;
+    margin: 0px;
+    font-size: 40px;
+}
+
+#tr {
+    font-size: 25px;
+    margin: -60px;
+    text-align: center;
+    background-color: bisque;
+    font-family: finestyle;
+    color: rgb(12, 56, 122);
+}
+
+#is {
+    font-size: 15px;
+    color: rgb(12, 56, 122);
+    text-align: center;
+}
+
+
+#te {
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(12, 56, 122);
+    font-family: finestyle;
+    color: bisque;
+}
+
+#es {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+#op {
+    color:rgb(12, 56, 122);
+    text-align: left;
+    background-color: bisque;
+    font-family: finestyle;
+    font-size: 35px;
+}
+
+#cont {
+    font-size: 20px;
+}
+
+#num {
+    font-size: 20px;
+}
+
+
+#blah {
+    text-align: center;
+    font-size: 25px;
+}
+
+#cita {
+    color: rgb(12, 56, 122);
+    background-color: bisque;
+    font-family: finestyle;
+    text-align: center;
+    font-size: 20px;
+}
+
